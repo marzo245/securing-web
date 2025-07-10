@@ -1,10 +1,5 @@
 # Securing Web (Spring Boot + MongoDB)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spring-projects/spring-boot/main/src/main/resources/static/images/spring-logo.svg" alt="Spring Boot" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="60"/>
-  <img src="https://raw.githubusercontent.com/thymeleaf/thymeleaf.github.io/main/images/thymeleaf-logo.png" alt="Thymeleaf" height="60"/>
-</p>
 
 ## Tecnologías utilizadas
 - **Spring Boot** ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
